@@ -1,0 +1,14 @@
+package java0430.ingeritance.part03;
+
+public class SuperConst {
+	int x;
+	int y;
+	
+	public SuperConst() {
+		
+	}
+}// end class
+
+class SubConst {
+
+}// end class

@@ -1,0 +1,13 @@
+package java0520_stream;
+
+import java.io.FileReader;
+import java.io.LineNumberReader;
+
+public class Java164_stream {
+
+	public static void main(String[] args) {
+		FileReader fr = null;
+		LineNumberReader nr =null;
+	}
+
+}

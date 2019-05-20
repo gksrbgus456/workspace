@@ -1,0 +1,9 @@
+package java0430.ingeritance.part03;
+
+public class Java094_inheritance {
+
+	public static void main(String[] args) {
+			
+
+	}//end main()
+}//end class

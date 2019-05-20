@@ -1,0 +1,14 @@
+package Java;
+
+public class Java1 {
+	public static void main (String [] args) {
+		int num = 12345;
+		int sum = 0;
+		
+		for(int i = i; i <=5; i++) {
+			
+			int a = num / 10000;
+		}
+		
+	}
+}

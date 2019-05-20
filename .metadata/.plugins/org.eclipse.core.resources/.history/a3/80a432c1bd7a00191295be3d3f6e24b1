@@ -1,0 +1,27 @@
+package java0520_stream;
+
+import java.util.Scanner;
+
+/*
+ * [순번 이름 평균] 입력
+ * 
+ * 순번:10
+ * 이름:홍길동
+ * 평균:9.5
+ */
+public class Java161_stream {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int x,z;
+		String y;
+		System.out.println("순번 :");
+		x = sc.nextInt();
+		System.out.println("이름 :");
+		y = sc.next();
+		System.out.println("평균 : ");
+		z = sc.nextInt();
+		
+	}
+
+}

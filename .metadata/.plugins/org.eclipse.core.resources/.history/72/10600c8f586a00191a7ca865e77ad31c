@@ -1,0 +1,17 @@
+package java0430.ingeritance.part03;
+
+public class SuperConst {
+	int x;
+	int y;
+	
+	public SuperConst(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+}// end class
+
+class SubConst extends SuperConst {
+	SubConst(){
+		super(10,40);
+	}
+}// end class
